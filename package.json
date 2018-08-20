@@ -9,7 +9,7 @@
   "main": "build/index.js",
   "dependencies": {
     "js-cookie": "^2.2.0",
-    "react": "^16.4.0"
+    "react": "^16.2.0"
   },
   "scripts": {
     "build": "webpack",
